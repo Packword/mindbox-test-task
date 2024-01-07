@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeLibrary", "ShapeLibrary\ShapeLibrary.csproj", "{AC63834D-7B5F-4FA5-A094-12E37CC3767A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demonstration", "Demonstration\Demonstration.csproj", "{EBE4C2FB-9EF9-4E83-BFD6-869D5E39CA3F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{AC63834D-7B5F-4FA5-A094-12E37CC3767A} = {AC63834D-7B5F-4FA5-A094-12E37CC3767A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeLibrary.Tests", "ShapeLibrary.Tests\ShapeLibrary.Tests.csproj", "{ACA43EDD-B8E1-47BE-B530-2A9DB6C6BCA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC63834D-7B5F-4FA5-A094-12E37CC3767A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC63834D-7B5F-4FA5-A094-12E37CC3767A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC63834D-7B5F-4FA5-A094-12E37CC3767A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC63834D-7B5F-4FA5-A094-12E37CC3767A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBE4C2FB-9EF9-4E83-BFD6-869D5E39CA3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE4C2FB-9EF9-4E83-BFD6-869D5E39CA3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE4C2FB-9EF9-4E83-BFD6-869D5E39CA3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE4C2FB-9EF9-4E83-BFD6-869D5E39CA3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACA43EDD-B8E1-47BE-B530-2A9DB6C6BCA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACA43EDD-B8E1-47BE-B530-2A9DB6C6BCA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACA43EDD-B8E1-47BE-B530-2A9DB6C6BCA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACA43EDD-B8E1-47BE-B530-2A9DB6C6BCA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

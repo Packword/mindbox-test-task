@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=aa648cc9_002D2fc9_002D49b3_002D8664_002De5315e61029d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CircleTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::ACA43EDD-B8E1-47BE-B530-2A9DB6C6BCA3::net7.0::ShapeLibrary.Tests.CircleTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::ACA43EDD-B8E1-47BE-B530-2A9DB6C6BCA3::net7.0::ShapeLibrary.Tests.TriangleTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::ACA43EDD-B8E1-47BE-B530-2A9DB6C6BCA3::net7.0::ShapeLibrary.Tests.ShapeFactoryTests.ShapeFactory_CreateShape_ReturnsCorrectType&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::ACA43EDD-B8E1-47BE-B530-2A9DB6C6BCA3::net7.0::ShapeLibrary.Tests.ShapeFactoryTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
